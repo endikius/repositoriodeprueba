@@ -10,6 +10,6 @@ public class DemoController {
 
 	@RequestMapping (method = RequestMethod.GET)
 	public String home () {
-		return "Hoa munnndo";
+		return "Hoa munnndo.";
 	}
 }
