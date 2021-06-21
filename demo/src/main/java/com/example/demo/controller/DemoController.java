@@ -12,5 +12,4 @@ public class DemoController {
 	public String home () {
 		return "Hoa mundo.";
 	}
-	
 }
