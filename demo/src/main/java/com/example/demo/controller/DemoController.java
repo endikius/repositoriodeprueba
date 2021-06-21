@@ -10,7 +10,7 @@ public class DemoController {
 
 	@RequestMapping (method = RequestMethod.GET)
 	public String home () {
-		return "Hoa mundo.";
+		return "Prueba de rama1";
 	}
 	
 }
